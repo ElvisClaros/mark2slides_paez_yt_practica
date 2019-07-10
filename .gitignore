@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-
+.idea
+ target/
+mark2slides_paez_yt_practica.iml
 # Log file
 *.log
 
