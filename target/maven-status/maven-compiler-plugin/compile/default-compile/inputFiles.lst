@@ -1,1 +1,5 @@
-/home/elvis/repos/mark2slides_paez_yt_practica/src/main/java/com/elvis/mark2slides/Foo.java
+/home/elvis/repos/mark2slides_paez_yt_practica/src/main/java/com/elvis/mark2slides/FileSystemWrapper.java
+/home/elvis/repos/mark2slides_paez_yt_practica/src/main/java/com/elvis/mark2slides/FileSystem.java
+/home/elvis/repos/mark2slides_paez_yt_practica/src/main/java/com/elvis/mark2slides/FakeFileSystem.java
+/home/elvis/repos/mark2slides_paez_yt_practica/src/main/java/com/elvis/mark2slides/Program.java
+/home/elvis/repos/mark2slides_paez_yt_practica/src/main/java/com/elvis/mark2slides/SlidesDeck.java

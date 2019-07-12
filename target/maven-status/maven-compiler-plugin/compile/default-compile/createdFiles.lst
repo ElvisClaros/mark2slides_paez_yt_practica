@@ -1,1 +1,5 @@
-com/elvis/mark2slides/Foo.class
+com/elvis/mark2slides/FakeFileSystem.class
+com/elvis/mark2slides/SlidesDeck.class
+com/elvis/mark2slides/FileSystem.class
+com/elvis/mark2slides/Program.class
+com/elvis/mark2slides/FileSystemWrapper.class
